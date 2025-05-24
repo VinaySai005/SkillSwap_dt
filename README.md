@@ -8,7 +8,7 @@ Clean Interface - Beautiful UI with shadcn/ui components and dark/light themes
 Real-time Chat - Connect instantly with Socket.IO messaging
 Mobile Responsive - Works seamlessly across all devices
 
-Tech Stack 🛠️
+Tech Stack 🛠
 
 Frontend: Next.js, TypeScript, Tailwind CSS, shadcn/ui
 Backend: Next.js API routes, Node.js
