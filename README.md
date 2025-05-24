@@ -21,3 +21,14 @@ Getting Started 🌟
 Clone & Install
 bashgit clone https://github.com/yourusername/skillswap.git
 cd skillswap
+
+2️⃣ Install Dependencies
+bash
+Copy
+Edit
+npm install --legacy-peer-deps
+3️⃣ Run the Development Server
+bash
+Copy
+Edit
+npm run dev
